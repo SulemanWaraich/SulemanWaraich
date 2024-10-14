@@ -11,11 +11,9 @@ Nice to meet you!
   <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?&style=for-the-badge&logo=firebase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-%2307405e.svg?&style=for-the-badge&logo=sql&logoColor=white"/>
   <img src="https://img.shields.io/badge/OOP-Object--Oriented%20Programming-%234CAF50?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/DSA-Data%20Structures%20and%20Algorithms-%23FF5733?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Java%20Swing-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 </p>
 
 ## Wanna Know Me More?
