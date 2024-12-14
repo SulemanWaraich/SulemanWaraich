@@ -14,7 +14,6 @@ Nice to meet you!
   <img src="https://img.shields.io/badge/SQL-%2307405e.svg?&style=for-the-badge&logo=sql&logoColor=white"/>
   <img src="https://img.shields.io/badge/OOP-Object--Oriented%20Programming-%234CAF50?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/DSA-Data%20Structures%20and%20Algorithms-%23FF5733?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/DSA-Data%20Structures%20and%20Algorithms-%23FF5733?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Express.js-%23000000.svg?&style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
